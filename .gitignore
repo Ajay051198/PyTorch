@@ -1,0 +1,3 @@
+__pycache__/
+.ipynb_checkpoints/
+cifar10-wrn22.pth
